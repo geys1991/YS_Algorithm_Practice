@@ -1,4 +1,4 @@
-class ListNode {
+public class ListNode {
   var val: Int
   var next: ListNode?
   
