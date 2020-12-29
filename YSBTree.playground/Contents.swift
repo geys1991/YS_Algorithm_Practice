@@ -74,5 +74,3 @@ func BTreeBFS(_ node: TreeNode?) {
 BTreeDFS(node1)
 // 广度优先遍历
 BTreeBFS(node1)
-
-

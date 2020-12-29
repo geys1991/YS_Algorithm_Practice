@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:YQGLinkedList.playground">
+      location = "group:YSBTree.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/astar-boy/YS_Algorithm_Practice/YSAlgorithm.playground">
+      location = "group:YQGLinkedList.playground">
    </FileRef>
    <FileRef
       location = "group:YSStack.playground">
