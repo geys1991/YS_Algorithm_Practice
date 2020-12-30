@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:YSBTree.playground">
-   </FileRef>
-   <FileRef
-      location = "group:YQGLinkedList.playground">
-   </FileRef>
-   <FileRef
-      location = "group:YSStack.playground">
-   </FileRef>
+   <Group
+      location = "container:"
+      name = "Base">
+      <FileRef
+         location = "group:YSBTree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:YQGLinkedList.playground">
+      </FileRef>
+      <FileRef
+         location = "group:YSStack.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "LeetCode">
+      <FileRef
+         location = "group:YSLeetCode397.playground">
+      </FileRef>
+      <FileRef
+         location = "group:YSLeetCode395.playground">
+      </FileRef>
+   </Group>
 </Workspace>
